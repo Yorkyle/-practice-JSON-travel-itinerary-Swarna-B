@@ -11,3 +11,5 @@ console.log("Trip Name:", itinerary.tripName);
 console.log("Traveler:", itinerary.traveler.name);
 console.log("First Destination:", itinerary.destinations[0].location);
 console.log("First Activity:", itinerary.destinations[0].activities[0].title);
+
+//We will put our answers as comments!
