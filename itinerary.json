@@ -7,15 +7,32 @@
       "phone": "2323232345"
     }
   },
+  "transportation": {
+    "mode": "rental car",
+    "cost": 145.00
+  },
+  "hotel": {
+    "name": "Airbnb",
+    "cost_per_day": 100.00
+  },
   "destinations": [
     {
       "location": "Mystery Spot",
       "arrivalDate": "2025-10-20",
       "departureDate": "2025-10-20",
       "activities": [
-        { "title": "Gravity Defying Tour", "time": "11:45 AM" },
-        { "title": "Optical Illusion", "time": "10:30 AM" },
-        { "title": "Gift Shop", "time": "1:15 PM" }
+        {
+          "title": "Optical Illusion",
+          "time": "10:30 AM"
+        },
+        {
+          "title": "Gravity Defying Tour",
+          "time": "11:45 AM"
+        },
+        {
+          "title": "Gift Shop",
+          "time": "1:15 PM"
+        }
       ]
     },
     {
@@ -23,9 +40,18 @@
       "arrivalDate": "2025-10-21",
       "departureDate": "2025-10-21",
       "activities": [
-        { "title": "Large Drum Bridge", "time": "9:30 AM" },
-        { "title": "Koi Ponds", "time": "10:30 AM" },
-        { "title": "Pagodas", "time": "11:00 AM" }
+        {
+          "title": "Large Drum Bridge",
+          "time": "9:30 AM"
+        },
+        {
+          "title": "Koi Ponds",
+          "time": "10:30 AM"
+        },
+        {
+          "title": "Pagodas",
+          "time": "11:00 AM"
+        }
       ]
     }
   ]
