@@ -7,6 +7,14 @@
       "phone": "2323232345"
     }
   },
+  "transportation": {
+    "mode": "rental car",
+    "cost": 145.00
+  },
+  "hotel": {
+    "name": "Airbnb",
+    "cost_per_day": 100.00
+  },
   "destinations": [
     {
       "location": "Mystery Spot",
