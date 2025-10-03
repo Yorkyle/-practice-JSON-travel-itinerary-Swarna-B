@@ -20,6 +20,10 @@
       "location": "Mystery Spot",
       "arrivalDate": "2025-10-20",
       "departureDate": "2025-10-20",
+      "transportation": {
+        "mode": "Uber",
+        "cost": 30.00
+      },
       "activities": [
         {
           "title": "Optical Illusion",
@@ -39,6 +43,10 @@
       "location": "Japanese Garden",
       "arrivalDate": "2025-10-21",
       "departureDate": "2025-10-21",
+      "transportation": {
+        "mode": "Carpool",
+        "cost": 0.00
+      },
       "activities": [
         {
           "title": "Large Drum Bridge",
@@ -51,6 +59,29 @@
         {
           "title": "Pagodas",
           "time": "11:00 AM"
+        }
+      ]
+    },
+    {
+      "location": "Asian Buffet",
+      "arrivalDate": "2025-10-22",
+      "departureDate": "2025-10-22",
+      "transportation": {
+        "mode": "Car",
+        "cost": 5.00
+      },
+      "activities": [
+        {
+          "title": "Breakfast",
+          "time": "7:30 AM"
+        },
+        {
+          "title": "Lunch",
+          "time": "11:30 AM"
+        },
+        {
+          "title": "Dinner",
+          "time": "6:00 PM"
         }
       ]
     }
